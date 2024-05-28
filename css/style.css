@@ -735,8 +735,9 @@ footer .footer-bottom .copyright{text-align: right;}
 	.quote-inner .content-section{padding: 0;}
 	.quote-inner .content-section .container{padding: 0 20px;}
 	.three-columns{padding-bottom: 10px;}
-	.three-columns ul{flex-wrap: wrap;row-gap:40px}
-	.three-columns .card{width: 100%}
+	.three-columns ul{flex-wrap: wrap;gap:0px}
+	.three-columns .card{width: 100%;margin-bottom: 40px;}
+	
 	.quote-inner .content-section h2{font-size: 30px;}
 	.instagram-section .grid li{width: 50%;}
 	.instagram-section .grid li:first-child{width: 100%;}
