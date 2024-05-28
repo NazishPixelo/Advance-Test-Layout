@@ -464,10 +464,10 @@ img{width: 100%;vertical-align: bottom;}
 }
 /* Three Column section */
 .three-columns{
-	padding-bottom: 100px;
+	padding-bottom: 50px;
 	background-color: var(--light-color);
 }
-.three-columns ul{column-gap: 60px;flex-wrap: nowrap;margin-top: -50px;position: relative;justify-content: space-between;}
+.three-columns ul{column-gap: 60px;flex-wrap: nowrap;top: -50px;position: relative;justify-content: space-between;}
 .card{
 	width: 33.333%;
 	box-shadow: none;
