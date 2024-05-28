@@ -734,7 +734,7 @@ footer .footer-bottom .copyright{text-align: right;}
 
 	.quote-inner .content-section{padding: 0;}
 	.quote-inner .content-section .container{padding: 0 20px;}
-	.three-columns{padding-bottom: 60px;}
+	.three-columns{padding-bottom: 10px;}
 	.three-columns ul{flex-wrap: wrap;gap:40px}
 	.three-columns .card{width: 100%}
 	.quote-inner .content-section h2{font-size: 30px;}
